@@ -2,13 +2,12 @@ import logo from "./logo.svg";
 import "./App.css";
 
 function App() {
-  const hello_world = "hello!";
   return (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Edit <code>src/App.js</code> and save to reload, this is a useless commit!.
         </p>
         <a
           className="App-link"
