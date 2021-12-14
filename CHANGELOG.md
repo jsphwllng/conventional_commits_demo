@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.2](https://github.com/jsphwllng/conventional_commits_demo/compare/v0.1.1...v0.1.2) (2021-12-14)
+
+
+### Features
+
+* **dummy-file2:** added a dummy file for demo ([e7044dc](https://github.com/jsphwllng/conventional_commits_demo/commit/e7044dcd5559bd57c17f8aaee1eaa9c32a18d564))
+
 ### 0.1.1 (2021-12-14)
 
 
