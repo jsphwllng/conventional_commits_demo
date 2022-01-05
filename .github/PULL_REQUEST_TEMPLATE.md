@@ -1,5 +1,5 @@
 ## Link to ticket
-[Jira-](https://jira.scout24.com/browse/CI-)
+[CI-](https://jira.scout24.com/browse/CI-)
 
 ## Changes
 
